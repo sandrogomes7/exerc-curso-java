@@ -5,3 +5,13 @@ exerc1/bin/application/App.class
 exerc1/bin/entities/Trabalhador.class
 exerc1/bin/entities/Departamento.class
 exerc1/bin/entities/enums/NivelTrabalhador.class
+exerc2/application/.vscode/settings.json
+exerc2/application/README.md
+exerc2/.vscode/settings.json
+exerc2/README.md
+.vscode/settings.json
+exerc2/bin/entities/enums/NivelTrabalhador.class
+exerc2/bin/entities/HorasContrato.class
+exerc2/bin/entities/Trabalhador.class
+exerc2/bin/entities/Departamento.class
+exerc2/bin/application/App.class
